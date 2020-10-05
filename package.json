@@ -1,0 +1,20 @@
+{
+  "name": "bus-api",
+  "version": "1.0.0",
+  "description": "qatros backend challenge 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Muhammad Rizki Akbar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "node-pg": "^1.0.1",
+    "nodemon": "^2.0.4"
+  }
+}
